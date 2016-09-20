@@ -17,5 +17,8 @@ Alguns exemplos estão em ES6
 1 - Criando um servidor de arquivos Básico (CSS, JPG, HTML); <br />
 2 - Criando servidor JSON, com funções de flitro acionadas via URL; <br />
 
+#3 - VERBOS / METHODS para RESTful APIS
 
+1 - GET para localhost (rodar arquivo 6 da pasta 1 em paralelo); <br />
+2 - POST Recupera dados de Formulário e imprime no corpo da página no formato querystring. <br />
 
