@@ -1,0 +1,35 @@
+[{ 
+"name": "JSON", 
+"type": "JSON Object",
+"avail" : 1
+},
+{ 
+"name": "JPEG", 
+"type": "IMAGE",
+"avail" : 1
+},
+{ 
+"name": "MP4", 
+"type": "MOVIE",
+"avail" : 0
+},
+{ 
+"name": "MP3", 
+"type": "AUDIO",
+"avail" : 1
+},
+{ 
+"name": "PDF", 
+"type": "TEXT",
+"avail" : 0
+},
+{ 
+"name": "GIF", 
+"type": "ANIM",
+"avail" : 1
+},
+{ 
+"name": "QT", 
+"type": "QUICK-TIME",
+"avail" : 0
+}]
